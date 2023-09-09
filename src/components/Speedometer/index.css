@@ -1,0 +1,45 @@
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 60px;
+}
+.speed {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 35px;
+}
+.limit {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 25px;
+}
+.image {
+  width: 70%;
+}
+.button {
+  margin: 20px;
+  height: 40px;
+  width: 120px;
+  border: 0px solid;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.btn1 {
+  background-color: #0b69ff;
+  color: white;
+}
+.btn2 {
+  background-color: transparent;
+  color: white;
+  border: 2px solid #94a3b8;
+  color: #94a3b8;
+}
